@@ -1,0 +1,3 @@
+locals {
+  vpc = var.vpc
+}
